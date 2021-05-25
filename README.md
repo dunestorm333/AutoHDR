@@ -1,3 +1,7 @@
+# Dunestorm333's branch
+
+For the time being, my branch contains an updated icon set to replace the original ones. I hope everyone enjoys them :-)
+
 # No time at the moment
 
 I became father a couple of weeks ago and I don't have time to work on this at the moment.
